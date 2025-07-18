@@ -6,4 +6,7 @@ dependents:
     - repo: tako-test/repo-b:main
       artifacts: []
       workflows: []
+    - repo: tako-test/repo-d:main
+      artifacts: []
+      workflows: []
 workflows: []
